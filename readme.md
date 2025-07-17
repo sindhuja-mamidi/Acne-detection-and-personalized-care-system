@@ -44,6 +44,7 @@
   </ul>
 </details>
 
+---
 <a id="future-scope-and-challenges-faced"></a>
 <details>
   <summary><strong>Future Scope & Challenges</strong></summary>
