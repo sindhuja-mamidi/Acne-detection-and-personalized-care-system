@@ -1,0 +1,9 @@
+scikit-learn
+inference_sdk
+flask
+roboflow
+opencv-python
+pandas
+gunicorn
+supervision
+joblib
