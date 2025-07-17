@@ -2,8 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="/coverimage.jpeg" alt="SkInsight Project Logo" width="600">
-  <h3 align="center">SkInsight: AI-Powered Facial Analysis for Acne Detection</h3>
+  <h3 align="center"> AI-Powered Acne Detection and personalized care system </h3>
   <p align="center">
    An advanced AI-driven platform for skin analysis and personalized skincare recommendations.
     <br />
@@ -36,7 +35,7 @@
   <summary><strong>About The Project</strong></summary>
   <br>
   <p>
-    <strong>SkinSight</strong> is an AI-powered dermatological platform designed to analyze facial images for acne detection, skin condition assessment, and personalized skincare recommendations. By leveraging deep learning models like YOLO, OpenCV, and TensorFlow, the platform provides accurate real-time analysis of skin health.
+    <strong>SkinSight</strong> is an AI-powered dermatological platform designed to analyze facial images for acne detection and personalized skincare recommendations. By leveraging deep learning models like YOLO, OpenCV, and TensorFlow, the platform provides accurate real-time analysis of skin health.
   </p>
  <p> The project aims to bridge the gap between AI and dermatology by offering users a smart, accessible, and cost-effective solution for skincare management. SkinSight provides detailed skin analysis, customized product recommendations, dermatologist appointment booking, and progress tracking, ensuring a holistic skincare experience for users.</p>
  <p> Built with Flask (Python) for the backend, React.js for the frontend, and SQLite3 for secure data storage, SkinSight is optimized for both scalability and user engagement. It empowers individuals with actionable insights and professional support, making advanced dermatological care more accessible than ever. </p>
@@ -165,20 +164,10 @@ npm start</code></pre></li>
       <strong>New Appointment Page</strong><br>
       <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/new_appointment.png" alt="New Appointment Screenshot" width="600">
     </li>
-     <br>
-      <li>
-      <strong>Doctor Appointment Page</strong><br>
-      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/doctor_appointment.png" alt="Doctor Appointment Page" width="600">
-    </li>
-
   </ul>
 </details>
 
 ---
-
-<div align="center">
-  💙 If you like this project, give it a ⭐! In case of any bugs or feedback, feel free to contact me.
-</div>
 
 
 
