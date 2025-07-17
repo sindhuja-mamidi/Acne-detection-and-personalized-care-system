@@ -176,19 +176,6 @@ npm start</code></pre></li>
 
 ---
 
-<a id="collaborators"></a>
-<details>
-  <summary><strong>Collaborators</strong></summary>
-   <br>
-  <ul>
-    <li><a href="https://github.com/piyushkumar24">Piyush Kumar</a> (21BCE3077)</li>
-    <li><a href="https://github.com/madhavc9">Madhav Choudhary</a> (21BCE3239)</li>
-    <li><a href="https://github.com/khananas007">Anas Khan</a> (21BCE3244)</li>
-  </ul>
-</details>
-
----
-
 <div align="center">
   💙 If you like this project, give it a ⭐! In case of any bugs or feedback, feel free to contact me.
 </div>
