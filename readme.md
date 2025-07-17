@@ -41,10 +41,8 @@
     <li>Backend: Flask (Python)</li>
     <li>Database: SQLite3</li>
     <li>AI Models: YOLO, OpenCV, TensorFlow</li>
-    <li>Deployment: Render</li>
   </ul>
 </details>
----
 
 <a id="future-scope-and-challenges-faced"></a>
 <details>
